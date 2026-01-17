@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# streamlit / local
+.streamlit/
+*.log
+
+# data (сессии)
+data/sessions/*.json
